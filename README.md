@@ -1,2 +1,0 @@
-# bypass
-Learn to Hack
