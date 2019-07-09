@@ -1,12 +1,12 @@
 /* Top Section */
 #p1{
-  background-image: url(pics/bg.jpg);
+  background-image: url(Pics/bg.jpg);
 }
 #p2{
-  background-image: url(pics/bugbg.jpg);
+  background-image: url(Pics/bugbg.jpg);
 }
 #p3{
-  background-image: url(pics/toolsbg.jpg);
+  background-image: url(Pics/toolsbg.jpg);
 }
 .front{
   background-size: 100%;
