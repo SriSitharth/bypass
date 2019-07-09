@@ -1,0 +1,50 @@
+/* Top Section */
+#p1{
+  background-image: url(pics/bg.jpg);
+}
+#p2{
+  background-image: url(pics/bugbg.jpg);
+}
+#p3{
+  background-image: url(pics/toolsbg.jpg);
+}
+.front{
+  background-size: 100%;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#top h1{
+ text-align: center;
+ font-size: 420%;
+color: white;
+ font-variant: small-caps;
+}
+#top .row{
+  text-align: center;
+  background-color: #000000;
+}
+#top .row .col-sm-9{
+  text-align: left;
+  font-size: 36px;
+}
+#top .row .col-sm-1,.col-sm-2{
+  padding-top: 16px;
+}
+#top a{
+  color: white;
+}
+/* Middle Section */
+#middle{
+  text-align: center;
+}
+#middle img{
+  width: 300px;
+}
+/* Bottom Section */
+#bottom{
+  background-color: #000000;
+  text-align: center;
+  color: white;
+}
